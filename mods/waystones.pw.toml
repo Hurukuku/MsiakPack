@@ -1,0 +1,13 @@
+name = "Waystones"
+filename = "Waystones_1.16.5-7.4.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "ed0d3518f6e6491ec2f06b9cde69aa3b9ec3e247"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3222129
+project-id = 245755
