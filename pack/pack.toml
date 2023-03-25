@@ -1,0 +1,13 @@
+name = "Msiakpack"
+author = "Hurukuku & Msiak"
+version = "1.0.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "ebf1eb126d2e83b5505368f0c3b052ce049693fd67b4c185fd2a0296f223410a"
+
+[versions]
+forge = "36.2.39"
+minecraft = "1.16.5"
