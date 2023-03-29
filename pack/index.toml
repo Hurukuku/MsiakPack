@@ -13,6 +13,10 @@ file = "config/Mekanism/client.toml"
 hash = "37921f142b05be5d0290b75f86aa2234b1ff8b7b50b50366a1c35e6568287890"
 
 [[files]]
+file = "config/Mekanism/tiers.toml"
+hash = "20e6449c05d84c6b8cda35e418c6b973287936bd1ebde6874334d9b7b101eadc"
+
+[[files]]
 file = "config/Mekanism/tools-client.toml"
 hash = "adf9f43d65b332f8212d72dd847cdd19ff3f92bd80dd072011adcc53758db747"
 
@@ -1687,6 +1691,11 @@ hash = "9b2088287d126347cb44a539b7104462e0a4aaa0b871577ca13902398f174f52"
 metafile = true
 
 [[files]]
+file = "mods/blood-magic.pw.toml"
+hash = "67ce18e8f148fa7285e0871ac607aeef608337d5448c3debb640be5916eaeedf"
+metafile = true
+
+[[files]]
 file = "mods/blueprint.pw.toml"
 hash = "5f0f44a271c994a591bc78db95aec291548a9198a51706dfa6fa22b1af3bea88"
 metafile = true
@@ -1714,6 +1723,16 @@ metafile = true
 [[files]]
 file = "mods/cb-multipart.pw.toml"
 hash = "7f6cc33cc0391ced9478a30cfb58278485091fe4e449dd5f37e94ac86ddbe291"
+metafile = true
+
+[[files]]
+file = "mods/chicken-chunks-1-8.pw.toml"
+hash = "d8671dad3a3e008802aaa549ff311d212fdfa2b838e5ffc08f2584d6912ce1bc"
+metafile = true
+
+[[files]]
+file = "mods/chisel.pw.toml"
+hash = "2298e41ca747f896a1969c416a315f2b81670fb646479f28c4c81f08744e57e0"
 metafile = true
 
 [[files]]
@@ -1794,6 +1813,11 @@ metafile = true
 [[files]]
 file = "mods/creativecore.pw.toml"
 hash = "ab3b3b8545412e263eddf2dc5f77f9099b454f742dc1e21cab2dbed86514438b"
+metafile = true
+
+[[files]]
+file = "mods/ctm.pw.toml"
+hash = "5f6f63a89f7ce3204188df5c2d07036ae59514fc72ebd832a447fbb73f6ebfcb"
 metafile = true
 
 [[files]]
@@ -2014,16 +2038,6 @@ metafile = true
 [[files]]
 file = "mods/iron-chests.pw.toml"
 hash = "68995b9ea503260f1a5dafe4667b028fa44c3079d50c7372d85f842db274088e"
-metafile = true
-
-[[files]]
-file = "mods/iron-jetpacks.pw.toml"
-hash = "8fd6a23a9025b7605ba677efddbfa5842a1a0d16f889d9603124f9a02a32854c"
-metafile = true
-
-[[files]]
-file = "mods/iron-jetpacks.pw.toml"
-hash = "8fd6a23a9025b7605ba677efddbfa5842a1a0d16f889d9603124f9a02a32854c"
 metafile = true
 
 [[files]]
@@ -2347,6 +2361,11 @@ hash = "b4f9abd219e3affcbfd6d592967ce289c5461c404b0c27a5a97c068205ed4c9b"
 metafile = true
 
 [[files]]
+file = "mods/simply-jetpacks-2.pw.toml"
+hash = "1b62698a5d4b1e71d23e4f06b09a1c5ae6efa9d35bd74a3b067d8e5d95234da6"
+metafile = true
+
+[[files]]
 file = "mods/small-ships.pw.toml"
 hash = "910f46e3b2327ce84a177901f69bccf5d4f706e0fc631617a0c7004b925dfd99"
 metafile = true
@@ -2367,6 +2386,16 @@ hash = "7b5c9093a8309bf016de0bd7bd655b6522632d6c8291c3cdeb9a27c327667311"
 metafile = true
 
 [[files]]
+file = "mods/supermartijn642s-config-lib.pw.toml"
+hash = "0e06e76388505e02e24407418d757d752578c680a14a4903f7e9e7f7bfad3ea0"
+metafile = true
+
+[[files]]
+file = "mods/supermartijn642s-core-lib.pw.toml"
+hash = "4724991596b11c85c609062979bc3933be53057cf6afcfa7eca8eecc7ba0c1cd"
+metafile = true
+
+[[files]]
 file = "mods/supplementaries.pw.toml"
 hash = "1e367d1acd88458cd32396c39a33540a3c8bfa56672d96a533726435fa30d1fc"
 metafile = true
@@ -2384,6 +2413,11 @@ metafile = true
 [[files]]
 file = "mods/swingthroughgrass.pw.toml"
 hash = "af51ed68a5f8871654be446e20e878a6e4256c75d654712c077845b167bbf7e6"
+metafile = true
+
+[[files]]
+file = "mods/tesseract.pw.toml"
+hash = "18af85c1179479106e4e843597148454295d9eb6838336049bcd420bef663a9f"
 metafile = true
 
 [[files]]
